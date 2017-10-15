@@ -23,7 +23,7 @@ namespace ConsoleAppArray
                 + data[4] + data[5] + data[6] + data[7] + data[8] + data[9]);
             for (int i = 0; i < data.Length; i++)
             {
-                Console.WriteLine(data[i] + " ");
+                Console.Write(data[i] + " ");
             }
             Console.ReadLine();
 
